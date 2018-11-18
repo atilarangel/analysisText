@@ -1,2 +1,2 @@
 # analysisText
-Análise de 800 Diários Oficiais do Rio para ver quais são as palavras mais frequentes retirando as "stop words"
+Analysis 800 Diários Oficiais do Rio (Official Dayli of Rio) removing "stop words" and to ranking frequentlys words in that.
